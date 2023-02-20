@@ -1,0 +1,5 @@
+setup.py
+arbitrary.egg-info/PKG-INFO
+arbitrary.egg-info/SOURCES.txt
+arbitrary.egg-info/dependency_links.txt
+arbitrary.egg-info/top_level.txt

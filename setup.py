@@ -1,34 +1,14 @@
-from setuptools import setup
-
+from setuptools import setup, find_packages
 
 setup(
-    name='arbitrary',
-    version='0.01',
-    description='creating arbitrary package',
-    url=""
+    name="arbitrary",
+    version="0.1",
+    description="creating arbitrary package",
     author='kwaku Opare',
     author_email='kwakuoparefavor@gmail.com',
-    keywords='arbitrary'
-    packages='setuptools.find_packages()'
-    install_requires=['']
-)
-
-
-<<<<<<< HEAD
-setup(
-    name='arbitrary',
-    version='0.01',
-    description='creating arbitrary package',
-    url=""
-    author='kwaku Opare',
-    author_email='kwakuoparefavor@gmail.com',
-    keywords='arbitrary'
-    packages='setuptools.find_packages()'
-    install_requires=['']
-)
-
+    install_requires=[],
+    python_requires=">=3.10",
+    packages=find_packages()
     
-    
- 
-=======
->>>>>>> 14b9ee1811471bd82d9c8b5ca7ef0085354caa58
+
+)

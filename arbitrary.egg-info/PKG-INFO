@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: arbitrary
+Version: 0.1
+Summary: creating arbitrary package
+Author: kwaku Opare
+Author-email: kwakuoparefavor@gmail.com
+Requires-Python: >=3.10

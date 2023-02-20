@@ -9,9 +9,6 @@ def myfirstmodule3():
     print("do i need to create subdirectories3")
 
 
-myfirstmodule1    
-myfirstmodule2
-myfirstmodule3
-
-
-    
+myfirstmodule1()    
+myfirstmodule2()
+myfirstmodule3()

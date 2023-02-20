@@ -9,11 +9,6 @@ def mysecondmodel2():
 def mysecondmodel3():
     print("this is my second directory")
 
-mysecondmodel1
-mysecondmodel2
-mysecondmodel3
-
-
-
-
-  
+mysecondmodel1()
+mysecondmodel2()
+mysecondmodel3()
