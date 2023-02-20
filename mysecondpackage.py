@@ -1,12 +1,19 @@
-def mysecondmoduel():
-    print("this is my second directories1")
+def mysecondmodel1():
+    print("this is my second directory")
 
-def mysecondmodue2():
-    print("this is my second directories2")
+
+def mysecondmodel2():
+    print("this is my second directory")
 
     
-def mysecondmodue3():
-    print("this is my second directories3")
+def mysecondmodel3():
+    print("this is my second directory")
+
+mysecondmodel1
+mysecondmodel2
+mysecondmodel3
+
+
 
 
   
